@@ -39,26 +39,9 @@
 
 ---
 
-## 🗂️ Folder Structure
-
-```
-lib/
-├── main.dart          # Main entry file
-├── widgets/           # Reusable components
-└── assets/
-    └── images/        # Image of the Yamaha R6
-```
-
----
-
 ## 📌 Info
 
 - Name: **Royya Ihsan Kamil**
 - ID: **225410004**
 
 ---
-
-## 🧑‍💻 Author
-
-Made with ❤️ using Flutter  
-Feel free to fork, use, and contribute!
