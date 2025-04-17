@@ -3,7 +3,7 @@
 A simple Flutter application showcasing a clean UI layout to display information about the Yamaha YZF-R6 motorcycle.  
 It features interactive widgets, responsive layout, dark mode support, and a right-aligned animated drawer menu.
 
-[preview](https://github.com/user-attachments/assets/0b99761c-8599-4b60-9ca9-a4528f79e6bf)
+![preview](https://github.com/user-attachments/assets/0b99761c-8599-4b60-9ca9-a4528f79e6bf)
 
 
 ## 📱 Features
@@ -22,7 +22,7 @@ It features interactive widgets, responsive layout, dark mode support, and a rig
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| [light_mode](https://github.com/user-attachments/assets/271493ef-f5fe-487c-82bf-254c0fd600ba) | ![dark_mode](https://github.com/user-attachments/assets/0e57f98e-623f-4e64-8373-c9b9d97e40ad) |
+| ![light_mode](https://github.com/user-attachments/assets/271493ef-f5fe-487c-82bf-254c0fd600ba) | ![dark_mode](https://github.com/user-attachments/assets/0e57f98e-623f-4e64-8373-c9b9d97e40ad) |
 
 ---
 
