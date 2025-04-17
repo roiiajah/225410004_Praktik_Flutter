@@ -22,7 +22,7 @@ It features interactive widgets, responsive layout, dark mode support, and a rig
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](screenshots/light_mode.png) | ![Dark](screenshots/dark_mode.png) |
+| [light_mode](https://github.com/user-attachments/assets/271493ef-f5fe-487c-82bf-254c0fd600ba) | ![dark_mode](https://github.com/user-attachments/assets/0e57f98e-623f-4e64-8373-c9b9d97e40ad) |
 
 ---
 
