@@ -7,11 +7,9 @@
 
 - 🖼️ **Image Display** of Yamaha YZF-R6
 - ⭐ **Favorite Button** with like counter
-- 📍 **Location and Info Section**
 - 🧭 **Action Buttons**: Call, Route, Share (inside the drawer)
 - 🌙 **Dark Mode Toggle**
-- 📂 **Right-Side Drawer Menu** with smooth animation
-- ✅ Clean, scrollable layout using `Row`, `Column`, and `Wrap`
+- 📂 **Right-Side Drawer Menu**
 
 ---
 
