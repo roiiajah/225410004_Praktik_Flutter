@@ -57,10 +57,8 @@ lib/
 
 ## 📌 Info
 
-- Student: **Royya Ihsan Kamil**
+- Name: **Royya Ihsan Kamil**
 - ID: **225410004**
-- Motorcycle: **Yamaha YZF-R6**
-- Price: **Rp 270.000.000**
 
 ---
 
